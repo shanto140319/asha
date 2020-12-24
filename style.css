@@ -41,7 +41,7 @@ ul li a{
     color: green;
 }
 .bg{
-    background-image: url("./original.png");
+    background-image: url("https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     width: 100%;
     height: calc(100vh - 100px);
     background-position: center;
